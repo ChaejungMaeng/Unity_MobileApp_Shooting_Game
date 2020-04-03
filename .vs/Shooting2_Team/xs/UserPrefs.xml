@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B133CC1E-E799-E3AC-5E4E-2CB900049178}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Enew5.cs">
+    <Files>
+      <File FileName="Assets/scripts/stick.cs" Line="25" Column="77" />
+      <File FileName="Assets/scripts/addbullet.cs" Line="14" Column="29" />
+      <File FileName="Assets/scripts/End.cs" Line="138" Column="1" />
+      <File FileName="Assets/DragFingerOffset.cs" Line="13" Column="36" />
+      <File FileName="Assets/scripts/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Score.cs" Line="4" Column="22" />
+      <File FileName="Assets/DIsta.cs" Line="49" Column="19" />
+      <File FileName="Assets/addgem2.cs" Line="34" Column="8" />
+      <File FileName="Assets/scripts/Enew5.cs" Line="183" Column="1" />
+      <File FileName="Assets/starmove.cs" Line="45" Column="8" />
+      <File FileName="Assets/scripts/AddEnemy.cs" Line="100" Column="39" />
+      <File FileName="Assets/addstar.cs" Line="24" Column="58" />
+      <File FileName="Assets/fire.cs" Line="12" Column="9" />
+      <File FileName="Assets/flight.cs" Line="16" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

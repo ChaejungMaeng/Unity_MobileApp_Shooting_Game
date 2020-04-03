@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6241bf9b156aa44c2b12c7a7e68b432a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - countT: {fileID: 9096813980618614419, guid: dcd82f5ab53c04efa97592a9a0f17cb8,
+      type: 3}
+  - winText: {instanceID: 0}
+  - endGame: {instanceID: 0}
+  - winGame: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

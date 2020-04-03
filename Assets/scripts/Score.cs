@@ -1,0 +1,4 @@
+﻿using System.Collections; using System.Collections.Generic; using UnityEngine; using UnityEngine.UI; using UnityEngine.SceneManagement;   public class Score : MonoBehaviour {      public Text countT;  //static 하면 안됨     // public static int count;      public Canvas wining;      // Use this for initialization     void Start () {         //count = 0;         SetCountText();          wining.enabled = false;          }      private void Update()
+    {
+        SetCountText();
+    }      void SetCountText()     {         countT.text = "SCORE : " + Enew5.count2.ToString();         if (Enew5.count2 >= 300)         {             wining.enabled = true;           //  winGame.enabled = true;            //  endGame.enabled = false;         }     }       public void Restart2()     {//gameover되고 다시 시작 //만들어서쓰면돼                    Enew5.count2 = 0;          wining.enabled = false;          countT.text = "SCORE : 0";          SceneManager.LoadScene("CJ");      }  } 

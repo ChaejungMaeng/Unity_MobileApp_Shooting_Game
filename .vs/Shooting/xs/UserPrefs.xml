@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7CF1F33E-A859-9D01-4F58-76470CD3E24C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/End.cs">
+    <Files>
+      <File FileName="Assets/scripts/rotate.cs" Line="21" Column="10" />
+      <File FileName="Assets/scripts/Bullet.cs" Line="33" Column="5" />
+      <File FileName="Assets/scripts/addbullet.cs" Line="11" Column="1" />
+      <File FileName="Assets/scripts/AddEnemy.cs" Line="29" Column="6" />
+      <File FileName="Assets/scripts/Enemy.cs" Line="85" Column="1" />
+      <File FileName="Assets/scripts/stick.cs" Line="29" Column="1" />
+      <File FileName="Assets/scripts/ShotButton.cs" Line="10" Column="1" />
+      <File FileName="Assets/Joystick Pack/Scripts/Joysticks/FixedJoystick.cs" Line="1" Column="1" />
+      <File FileName="Assets/add.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Enew5.cs" Line="41" Column="8" />
+      <File FileName="Assets/scripts/Score.cs" Line="55" Column="6" />
+      <File FileName="Assets/scripts/End.cs" Line="80" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
